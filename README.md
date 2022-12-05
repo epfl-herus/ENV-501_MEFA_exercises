@@ -11,8 +11,8 @@
 * [numpy](https://numpy.org/)
 * [pandas](https://pandas.pydata.org/)
 * [matplotlib](https://matplotlib.org/)
-* [matplotlib](https://plotly.com/)
-* [matplotlib](https://geopandas.org/en/stable/)
+* [plotly](https://plotly.com/)
+* [geopandas](https://geopandas.org/en/stable/)
 
 ## About
 
