@@ -5,11 +5,14 @@
 * MFA in matrix form 
 * Input/Output Analysis
 * Multi Regional Input/Output Analysis
+* Data visualization with plotly and geopandas
 
 ## Dependencies
 * [numpy](https://numpy.org/)
 * [pandas](https://pandas.pydata.org/)
 * [matplotlib](https://matplotlib.org/)
+* [matplotlib](https://plotly.com/)
+* [matplotlib](https://geopandas.org/en/stable/)
 
 ## About
 
